@@ -8,7 +8,7 @@
 
 <!-- ![GitHub Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popovstefan&theme=vue) -->
 
-##### 📫 Where to reach me
+##### 📫 My online footprint
 ---
 
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/23c9d71e45e3ba1ea7a5df36c7b43822)
