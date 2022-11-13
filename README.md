@@ -1,11 +1,8 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 
-##### GitHub Stats
----
--->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popovstefan)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=popovstefan)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popovstefan) -->
+<!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=popovstefan) -->
 
 <!-- ![GitHub Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popovstefan&theme=vue) -->
 
