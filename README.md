@@ -13,25 +13,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+# 👋 Hi, I’m **Stefan Popov**  
+*Java & Python Developer | ML Engineer*
 
-I made this README just for fun.
+---
 
-Main programming languages: Java / Python
+## 🛠️ Skills & Technologies
 
-- 🌱 I’m currently learning about natural language processing 
-- 📫 How to reach me: steffan.popov@protonmail.com 
-- ⚡ Here's a fun fact about cous-cous: did you know that they didn't add the second 'cous' until 1979?
+**Languages:** Java · Python · SQL  
+**Machine Learning & Data:** scikit-learn · XGBoost · LightGBM · pandas · NumPy · shap  
+**Dev & Tools:** Git · Docker · CI/CD · Linux  
+**Other:** AWS basics · REST APIs · Data pipelines  
 
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/23c9d71e45e3ba1ea7a5df36c7b43822)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Stefan.Popov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/popovstefan/)
-[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Stefan-Popov-8)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popovstefan)](https://github.com/anuraghazra/github-readme-stats)
+## 📂 Featured Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=popovstefan&show_icons=true&count_private=true)  
+| Project | Description | Tech Stack | Status |
+|--------|-------------|-------------|---------|
+| **IBM-Data-Science-Capstone** | Capstone work from IBM’s Data Science specialization — includes data cleaning, modeling, and analysis | Jupyter notebooks, Python, pandas, scikit-learn | Completed / archival |
+| **lightgbm4j** | Java binding for LightGBM — to allow Java applications to use LightGBM models | Java, JNI, C++ | Active / fork |
+| **aoc (Advent of Code challenges)** | My solutions for Advent of Code 2024 puzzles — used for practice and learning | Java | Completed |
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=popovstefan)  
+*(Click the project name to view the repository.)*
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+---
+
+## ✉️ Contact
+
+- LinkedIn: [[Stefan Popov](https://www.linkedin.com/in/popovstefan/)]  
+
+---
+
+⚡ **Fun fact**: Did you know they only added the second “cous” in “cous-cous” in 1979?
+
+---
+
+Thanks for stopping by — feel free to explore my projects or drop me a message if you’d like to collaborate!
