@@ -6,7 +6,7 @@
 ## 🛠️ Skills & Technologies
 
 **Languages:** Java · Python · SQL  
-**Machine Learning & Data:** scikit-learn · XGBoost · LightGBM · pandas · NumPy · shap  · LangChain  ·  sentence_transformers
+**Machine Learning & Data:** scikit-learn · XGBoost · LightGBM · pandas · NumPy · shap  · LangChain  ·  sentence_transformers  
 **Dev & Tools:** Git · Docker · CI/CD · Linux  
 **Other:** AWS basics · REST APIs · Data pipelines · FastAPI
 
